@@ -1,0 +1,14 @@
+var str = 'Aakash Saini';
+var str1 = "Aakash Saini";
+var str2 = "Aakash Saini";
+var num = 10;
+var str3 = String(num);
+var str4 = num.toString();
+console.log(typeof num, num);
+console.log(typeof str3, str3);
+console.log(typeof str4, str4);
+var val = null;
+// val = 12;
+// var val: undefined | number = undefined;
+// val = 12;
+console.log(typeof val);
